@@ -20,6 +20,13 @@ android {
 }
 
 dependencies {
+//    compile project(':myLibrary')
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:appcompat-v7:22.2.0'
+    compile 'com.roger:myLibrary:0.2'
+    compile('com.facebook.fresco:fresco:0.4.0')
+    compile 'com.alibaba:fastjson:1.2.0'
+//    compile('com.facebook.fresco:fresco:0.4.0')
+
+//    compile 'com.alibaba:fastjson:1.2.0'
 }
