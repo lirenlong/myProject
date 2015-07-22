@@ -9,4 +9,3 @@ The gradle version shouldn't be 2.4.0 or an error occured when apply "com.github
 Take notice of [note-on-releases](https://github.com/dcendents/android-maven-gradle-plugin#note-on-releases).
 
 com.github.dcendents.android-maven:1.3 for Gradle 2.4.0+
-
