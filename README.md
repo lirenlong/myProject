@@ -1,7 +1,7 @@
 # myProject
 project to combine the library and module
 
-# notes
+# note
 
 The gradle version shouldn't be 2.4.0 or an error occured when apply "com.github.dcendents.android-maven".
 > Error:(2, 0) Cause: org/gradle/api/publication/maven/internal/DefaultMavenFactory
