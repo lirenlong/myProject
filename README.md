@@ -1,5 +1,5 @@
 # myProject
-project to combine the library and module
+Project to combine the library and module using gradle.
 
 # note
 
